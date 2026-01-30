@@ -16,7 +16,7 @@ Aspiring SOC Analyst with hands-on experience in:
 Wireshark, tcpdump, Zeek, Suricata, VirusTotal, ELK, Linux
 
 ## 📂 Repositories
-- BTLO Challenges → link
+- BTLO Challenges → https://github.com/jaimthecool2002/btlo-challenges
 - BTLO Investigations → link
 - Malware Traffic Analysis → link
 - Blue Team Blogs → link
