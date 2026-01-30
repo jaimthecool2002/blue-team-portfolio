@@ -13,7 +13,7 @@ Aspiring SOC Analyst with hands-on experience in:
 - Blue Team blogging (learning + writeups)
 
 ## 🔧 Tools Used
-Wireshark, tcpdump, Zeek, Suricata, VirusTotal, ELK, Linux
+Wireshark, tcpdump, Cyberchef, Nmap, VirusTotal, OSINT, Any.Run, IDA, Ghidra, Exiftool. Stegseek, D3FEND Framework, Photorec, Fcrackzip, Thunderbird, whois, URL2PNG, Oledump, Hashcat, Veracrypt. Pgptool, Aureport, Tshark
 
 ## 📂 Repositories
 - BTLO Challenges → https://github.com/jaimthecool2002/btlo-challenges
