@@ -17,6 +17,6 @@ Wireshark, tcpdump, Cyberchef, Nmap, VirusTotal, OSINT, Any.Run, IDA, Ghidra, Ex
 
 ## 📂 Repositories
 - BTLO Challenges → https://github.com/jaimthecool2002/btlo-challenges
-- BTLO Investigations → link
-- Malware Traffic Analysis → link
+- BTLO Investigations → https://github.com/jaimthecool2002/btlo-investigations
+- Malware Traffic Analysis → https://github.com/jaimthecool2002/malware-traffic-analysis
 - Blue Team Blogs → link
